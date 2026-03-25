@@ -1,0 +1,16 @@
+{
+    "name": "MGS.Interaction.Sample",
+    "rootNamespace": "MGS.Interaction.Sample",
+    "references": [
+        "GUID:8baa4eb50fbf1c047a58d9e88b7545ef"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
