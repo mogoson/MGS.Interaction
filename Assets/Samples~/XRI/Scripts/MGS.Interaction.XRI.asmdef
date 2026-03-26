@@ -1,0 +1,17 @@
+{
+    "name": "MGS.Interaction.XRI",
+    "rootNamespace": "MGS.Interaction.XRI",
+    "references": [
+        "GUID:8baa4eb50fbf1c047a58d9e88b7545ef",
+        "Unity.XR.Interaction.Toolkit"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

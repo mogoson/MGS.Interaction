@@ -20,9 +20,9 @@
   https://github.com/mogoson/MGS.Interaction.git?path=/Assets
   ```
 
-## Usage
+## Samples
 
-- 
+- Unity --> Window --> Package Manager --> Packages-Mogoson --> Interaction --> Samples.
 
 ---
 
